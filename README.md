@@ -248,6 +248,7 @@ nba-shot-intelligence/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
